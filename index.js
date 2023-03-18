@@ -43,7 +43,7 @@ function CallMe()
 function WhatsappMe()
 {
     console.log("whatsapp");
-    window.location = "https://wa.me/91999985945"
+    window.location = "https://wa.me/919999859495"
 }
 function AddToContact()
 { 
