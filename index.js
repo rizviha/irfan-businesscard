@@ -48,7 +48,7 @@ function WhatsappMe()
 function AddToContact()
 { 
     console.log("addtocontact");
-    window.open('./downloadfiles/Hasham_Rizvi.vcf')
+    window.open('./assets/Hasham_Rizvi.vcf')
 }
 
 const container = document.querySelector('.scroll-actions');
