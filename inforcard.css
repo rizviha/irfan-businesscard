@@ -68,10 +68,10 @@ body {
 }
 .scroll-element:first-child{
     margin-left: 50%;
-    margin-right: 12.5%;
+    margin-right: 5%;
 }
 .scroll-element:last-child{
-    margin-left: 12.5%;
+    margin-left: 5%;
     margin-right: 25%;
 }
 .scroll-element{
